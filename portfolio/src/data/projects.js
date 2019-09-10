@@ -7,7 +7,7 @@ const PROJECTS = [
     id: 1,
     title: 'Example React Application',
     description: 'A React app that I built, involving JS and core web dev concepts!',
-    link: 'https://github.com/matthew-paulino/portfolio',
+    link: 'https://github.com/matthew-paulino/React-Portfolio',
     image: project1
   },
   {
